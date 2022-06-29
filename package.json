@@ -1,8 +1,8 @@
 {
   "name": "api-container-nestjs",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Crud apis using Nest js",
+  "author": "Mirza",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
